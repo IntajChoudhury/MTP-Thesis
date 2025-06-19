@@ -1,0 +1,38 @@
+[DONE] 1. With and without constraints accuracy violations and all into a table for small epochs (limited laptop) and for large show comparable, also show training curve in both cases,
+          show diff experiments of 5 epochs, 10 epochs, .... few short learnings
+[DONE] 2. add some more noise, whether in noisy case is it recognising?
+[DONE] 3. show which are misclassified, tell the reason, show positive and negative cases
+[DONE] 4. explain how it's creating new constraint?
+[DONE] 5. find some niche cases and some more analysis for better grades
+
+
+
+
+
+TO DO (for each dataset)
+-----
+
+0. Go through the paper thoroughly
+1. Add tables of with and without noise (like incorrect class labels or distorted image pixels), and show superior with constraints for long epochs too, show some graphs and all
+2. Make graph of everything like loss, training curve of accuracy in both cases with & without constraints, accuracy violations, 
+3. Tables for accuracy at different epochs with & without constraints, violations, (at higher epochs show same comparable accuracy), 5, 10, ... epochs, few short learnings.
+4. Diagrams of simple ANN for each dataset, misclassified diagrams tell the reason, show +ve -ve cases in diagrams
+5. Some diagrams of weights, how new constraints are getting created, look in the paper as well
+6. find some niche cases and some more analysis for better grades, search in gpt
+
+
+[DONE] Accuracy - tables + training curve graph
+[DONE] Loss - graphs + tables
+[DONE] Violations - diagrams of misclassified +ve -ve e.g
+[DONE] Diagrams - Equations + Dataset views / classes / pre-constraints / new-constraints + Models & it's code
+
+
+
+
+
+For Thesis
+----------
+
+1. Add liter review
+2. table of pros and cons
+3. why it's required, motivation
